@@ -1,0 +1,9 @@
+.App{
+    font-family: fantasy;
+    color: brown;
+    font-style: bold;
+    text-align: center;
+    font-size: 100px;
+    animation: alternate;
+
+}
